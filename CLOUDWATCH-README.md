@@ -295,3 +295,5 @@ LOCATION 's3://logs-s33-vsv/exportedlogs/';
 This will read logs from all folders inside `exportedlogs/`.
 
 ```
+
+
