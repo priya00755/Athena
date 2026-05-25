@@ -81,3 +81,4 @@ The architecture helps monitor EC2 logs, AWS API activity, S3 events, and perfor
 
 ---
 ```
+
