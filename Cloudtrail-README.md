@@ -345,3 +345,4 @@ Example:
 ```sql
 LOCATION 's3://your-cloudtrail-bucket/AWSLogs/ACCOUNT-ID/CloudTrail/';
 ``` 
+
